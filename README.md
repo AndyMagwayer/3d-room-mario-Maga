@@ -1,3 +1,3 @@
 # 3d-room-mario-Maga
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Screen](https://github.com/AndyMagwayer/3d-room-mario-Maga/blob/main/Screenshot%202023-09-03%20165857.png)
